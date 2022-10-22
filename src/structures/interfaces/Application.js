@@ -21,7 +21,7 @@ class Application extends Base {
      * The application's id
      * @type {Snowflake}
      */
-    this.id = data.id;
+//     this.id = data.id;
 
     /**
      * The name of the application
