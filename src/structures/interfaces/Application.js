@@ -33,13 +33,13 @@ class Application extends Base {
      * The application's description
      * @type {?string}
      */
-    this.description = data.description ?? this.description ?? null;
+//     this.description = data.description ?? this.description ?? null;
 
     /**
      * The application's icon hash
      * @type {?string}
      */
-    this.icon = data.icon ?? this.icon ?? null;
+//     this.icon = data.icon ?? this.icon ?? null;
   }
 
   /**
