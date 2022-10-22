@@ -27,7 +27,7 @@ class Application extends Base {
      * The name of the application
      * @type {?string}
      */
-    this.name = data.name ?? this.name ?? null;
+//     this.name = data.name ?? this.name ?? null;
 
     /**
      * The application's description
